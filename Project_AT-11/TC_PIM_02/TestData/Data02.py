@@ -1,0 +1,13 @@
+class PIM_Data:
+    url = 'https://opensource-demo.orangehrmlive.com/web/index.php/auth/login'
+    Username = 'Admin'
+    Password = 'admin123'
+    EmpSearch_Name = 'Naruto Uzumaki Hokage'
+    Other_ID = '0786'
+    Licen_No = '852456'
+    LiEX_Date = '2026-05-17'
+    SSN_No = '852456'
+    SIN_NO = '789654'
+    DOB = '1996-10-09'
+    NickName = 'Shinobi'
+    Military = 'Nill'

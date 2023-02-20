@@ -1,0 +1,17 @@
+class HRM_Locator:
+    Username_locator = 'username'
+    Password_Locator = 'password'
+    LoginButtonLocator = '/html/body/div/div[1]/div/div[1]/div/div[2]/div[2]/form/div[3]/button'
+    PIM_Locator = '/html/body/div/div[1]/div[1]/aside/nav/div[2]/ul/li[2]/a'
+    Add_Locator ='/html/body/div/div[1]/div[2]/div[2]/div/div[2]/div[1]/button'
+    FName_Locator = 'firstName'
+    MName_Locator = 'middleName'
+    LName_Locator = 'lastName'
+    ID_Locator = '/html/body/div/div[1]/div[2]/div[2]/div/div/form/div[1]/div[2]/div[1]/div[2]/div/div/div[2]/input'
+    Pic_Locator = '/html/body/div/div[1]/div[2]/div[2]/div/div/form/div[1]/div[1]/div/div[2]/div/button'
+    LogDetail_Locator = '/html/body/div/div[1]/div[2]/div[2]/div/div/form/div[1]/div[2]/div[2]/div/label/span'
+    LogUser_Locator = '/html/body/div/div[1]/div[2]/div[2]/div/div/form/div[1]/div[2]/div[3]/div/div[1]/div/div[2]/input'
+    LogPass_Locator = '/html/body/div/div[1]/div[2]/div[2]/div/div/form/div[1]/div[2]/div[4]/div/div[1]/div/div[2]/input'
+    LogConPass_Locator = '/html/body/div/div[1]/div[2]/div[2]/div/div/form/div[1]/div[2]/div[4]/div/div[2]/div/div[2]/input'
+    Save_Locator = '/html/body/div/div[1]/div[2]/div[2]/div/div/form/div[2]/button[2]'
+    
